@@ -1,13 +1,11 @@
 # Website Analyzer MCP
 
-A powerful website analysis tool that uses AI to extract and analyze business information from websites.
-
 ## Features
 
 - Extracts visible text and metadata from webpages using Playwright
 - Analyzes website content using Gemini and Claude APIs
 - Identifies business information such as:
-  - Target audience
+  - Target audience (aka target buyers/consumers)
   - Main features/products
   - Unique value proposition
   - Industries served
